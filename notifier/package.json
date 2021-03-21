@@ -1,0 +1,8 @@
+{
+  "name": "Notifier",
+  "version": "1.0.0",
+  "description": "Notifier service for CLI",
+  "main": "notifier.js",
+  "author": "Shadrack Nicholas",
+  "license": "MIT"
+}
